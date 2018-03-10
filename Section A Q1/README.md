@@ -16,6 +16,9 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 ### 2. Navigate to the project folder from the command line
 cd "Section A Q 1"
 
+#### 1. Install Bower components from the commandline
+    bower install
+
 ### 3. Start the server
 
 This command serves the app at `http://127.0.0.1:8081` and provides basic URL
