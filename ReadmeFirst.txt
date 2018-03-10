@@ -1,8 +1,8 @@
 This contains all the rules and instructions of running all the applications in these assignment.
 
 ******* SETTING UP THE ENVIRONMENT **************
-You will need to install Nodejs, npm, bower, polymer-cli and Python.
-1. Download Nodejs and sett it up in the system. Ensure that the path environment variable or system environment variables point to the folder where npm has been installed 
+You will need to install Nodejs, npm, bower, polymer-cli and Python on your local machine.
+1. Download Nodejs and set it up in the system. Ensure that the path environment variable or system environment variables point to the folder where npm has been installed 
 e.g C:\Users\MCR\AppData\Roaming\npm
 2. Download Python latest stable version and install it. Ensure the path environment variable or system environment variable points to the folder where python has been installed 
 e.g C:\Python27
