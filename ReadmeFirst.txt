@@ -29,6 +29,6 @@ Section B Question 1
 1. Unzip the folder "Section B Q1" folder to a location of choice. Inside the folder you will find a client and a server folder. The client folder contains the client interface and login
 controls. The server folder contains implementation of a server in Nodejs which adds new users and facilitates login/logout of users into the system.
 2. Copy both folders to a location of choice in the machine.
-3. Navigate to the server folder on the commandline and type "node server.js" which runs the server application. Server application will be ready for login and creating of a new user.
+3. Navigate to the server folder on the commandline and type "npm install" which installs all the dependencies and packages and then "node server.js" which runs the server application. Server application will be ready for login and creating of a new user.
 4. Navigate to the client folder and on the commandline type "polymer serve" which makes the client side of the application ready for opening. You will now be able to open the application by typing localhost:8081 on your browser.
 5. Try to login to the application using any credentials. Create an account and try to login with the credentials created into the system.
