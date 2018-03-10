@@ -1,6 +1,6 @@
 # Polymer Client Side
 
-### Setup
+### 1. Setup
 
 ##### Prerequisites
 
@@ -13,10 +13,10 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 
     npm install -g bower
 
-##### Navigate to the project folder from the command line
+### 2. Navigate to the project folder from the command line
 cd "Section B Q 1\client"
 
-### Start the server
+### 3. Start the server
 
 This command serves the app at `http://127.0.0.1:8081` and provides basic URL
 routing for the app:
