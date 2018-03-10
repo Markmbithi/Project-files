@@ -16,7 +16,7 @@ Second, install [Bower](https://bower.io/) using [npm](https://www.npmjs.com)
 ### 2. Navigate to the project folder from the command line
 cd "Section A Q 1"
 
-#### 1. Install Bower components from the commandline
+#### 1. Install Bower components from the command line
     bower install
 
 ### 3. Start the server
