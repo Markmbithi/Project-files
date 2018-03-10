@@ -16,7 +16,8 @@ the command prompt is open you will need to close and open it again for the chan
 
 Section A Question 1.
 1. Unzip the project files and copy "Section A Q1" folder to a location of choice
-2. Navigate through the commandline to the folder and type "polymer serve". This will run the application through a local server that will enable you view the results through the browser.
+2. Navigate to the Section A Q1 folder from the commandline and type "bower install" to install necessary Polymer dependencies which will be read from the bower.json file
+2. Once successfully installed type "polymer serve". This will run the application on a local server that will enable you view the results through the browser.
 3. Go to the browser and type http://localhost:8081/ you should be able to see the sorted dictionary.
 4. The source code is in src/data-display.html
 
@@ -30,5 +31,5 @@ Section B Question 1
 controls. The server folder contains implementation of a server in Nodejs which adds new users and facilitates login/logout of users into the system.
 2. Copy both folders to a location of choice in the machine.
 3. Navigate to the server folder on the commandline and type "npm install" which installs all the dependencies and packages and then "node server.js" which runs the server application. Server application will be ready for login and creating of a new user.
-4. Navigate to the client folder and on the commandline type "polymer serve" which makes the client side of the application ready for opening. You will now be able to open the application by typing localhost:8081 on your browser.
+4. Navigate to the client folder and on the commandline type "bower install" which installs necessary Polymer dependencies and thereafter type "polymer serve" which makes the client side of the application ready for opening. You will now be able to open the application by typing localhost:8081 on your browser.
 5. Try to login to the application using any credentials. Create an account and try to login with the credentials created into the system.
