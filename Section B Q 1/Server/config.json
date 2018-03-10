@@ -1,0 +1,5 @@
+{
+  "secret": "readingit rocks!",
+  "audience": "nodejs-jwt-auth",
+  "issuer": "https://mark.com"
+}
